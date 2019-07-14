@@ -49,6 +49,6 @@ export const RESOLUTION_ARR = {
 
 export const SHARE_ID = 1;
 // eslint-disable-next-line
-export const APP_ID_LIVE = "<#YOUR_APP_ID#>";
+export const APP_ID_LIVE = "04ce7301fa154d878c6715bc1776a85b";
 // eslint-disable-next-line
-export const Token = "<#YOUR_ACCESS_TOKEN#>";
+export const Token = "00604ce7301fa154d878c6715bc1776a85bIABfPI7YRE4wVLW16IOLG2anjXDnwo6983Kl23UC8UxuLDLRTXgAAAAAEAA0shE1330rXQEAAQDffStd";
